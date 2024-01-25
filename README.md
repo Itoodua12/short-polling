@@ -1,9 +1,9 @@
 # Short Polling (Backend communication Design Pattern)
 
 
-# This project is a simple implementation of a short-polling mechanism for job submission and status checking.
-# It is a RESTful API built with Spring Boot, using the @RestController annotation to handle HTTP requests.
-# The primary functionality revolves around submitting jobs and checking their status.
+## This project is a simple implementation of a short-polling mechanism for job submission and status checking.
+## It is a RESTful API built with Spring Boot, using the @RestController annotation to handle HTTP requests.
+## The primary functionality revolves around submitting jobs and checking their status.
 
 # Endpoints
 ## Submit Job:
