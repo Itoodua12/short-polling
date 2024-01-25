@@ -42,4 +42,8 @@ public class PollController {
         }).start();
     }
 
+    private String checker() {
+        return "health";
+    }
+
 }
